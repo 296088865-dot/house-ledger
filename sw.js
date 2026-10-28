@@ -1,5 +1,5 @@
 /* 建房记账 · 离线缓存 */
-var CACHE = 'hl-v1';
+var CACHE = 'hl-v2';
 var ASSETS = ['./', './index.html', './manifest.json', './icon.svg'];
 
 self.addEventListener('install', function (e) {
